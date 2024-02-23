@@ -3,7 +3,7 @@ import numpy as np
 import pandas as pd
 import streamlit as st
 import requests as rq
-from bs4 import BeautifulSoup4 as bs 
+from bs4 import BeautifulSoup as bs 
 import base64
 import numpy as np
 import os
